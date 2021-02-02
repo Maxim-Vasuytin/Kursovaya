@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\Максим\Desktop\жжж\Курсовая работа\KuR$$ach\Source.cpp(101,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  KuR$$ach.vcxproj -> C:\Users\Максим\Desktop\жжж\Курсовая работа\KuR$$ach\Debug\KuR$$ach.exe
